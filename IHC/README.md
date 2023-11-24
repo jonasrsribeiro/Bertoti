@@ -67,7 +67,7 @@ O site do Spotify é conhecido por seu design elegante e minimalista. Isso torna
 
 O site da Amazon oferece um guia de ajuda para usuários que estão com dificuldades para usar o site. Isso ajuda os usuários a aprender como usar o site e a resolver problemas comuns.
 
-![Imagem](https://iili.io/Jo19IP2.png)
+![Imagem](https://iili.io/Jo1NiWQ.png)
 
 # Ajuda e Documentação
 
